@@ -12,12 +12,18 @@ Myself Jetso Analin and i'm a Passionate Blockchain Developer from India 🇮�
 
 I'm also a Technical Trainer in Technologies such as Blockchain , Rest APIs using NodeJS and Frameworks for Frontend been a part of multiple training sessions for over more than 30 colleges and training more than 5000+ students on latest Technologies and making them Industry ready, this is a part of initiative taken by my team under [KubixSquare](https://kubixsquare.com) as a founding member, also co-founder of [Code-X](https://codex.sfit.ac.in/) a Technical committee in St'Francis Institute of Technology - Borivali Mumbai- India, A initiative to spread coding ecosystem to every students in college.
 
-Current Technical Skills :
-- Solidity - Smart Contracts for Public Blockchain
-- Python Django - Backend Rest APIs
-- NodeJS, Javascript Frameworks - FullStack Development
-- SQL, PostgreSQL - Database
+#### Current Technical Skills :
+- ⛓️ Solidity - Smart Contracts for Public Blockchain
+- 🐍 Python Django - Backend Rest APIs
+- 📚 NodeJS, Javascript Frameworks - FullStack Development
+- 📙 SQL, PostgreSQL - Database
 
-Technical Skills known in BITS and PIECES :
-- Java, JavaFX - Desktop Applications 
-- Java Android - Android Applications 
+#### Technical Skills known in BITS and PIECES :
+- 🖥️ Java, JavaFX - Desktop Applications 
+- 📱 Java Android - Android Applications 
+
+#### Connect With Me :
+- [Telegram](https://t.me/jetsoanalin)
+- [LinkedIn](https://www.linkedin.com/in/jetsoanalin/)
+- [Twitter](https://twitter.com/jetsoanalin)
+- [Email](mailto:jetyjetso@gmail.com)
