@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Jetsoanalin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jetsoanalin/)](https://www.linkedin.com/in/jetsoanalin/)
+![Gmail Badge](https://img.shields.io/badge/-jetyjetso@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jetyjetso@gmail.com)
+![Github Followews Badge](https://img.shields.io/github/followers/jetsoanalin?label=Followers&style=social)
+
 <!--
 **Jetsoanalin/Jetsoanalin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
