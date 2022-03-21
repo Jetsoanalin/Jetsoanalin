@@ -57,6 +57,6 @@ I'm also a Technical Trainer in Technologies such as Blockchain , Rest APIs usin
 #### My Github Stats:
 
 [![Jetso's github activity graph](https://activity-graph.herokuapp.com/graph?username=jetsoanalin&theme=react-dark)](https://github.com/jetsoanalin)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jetsoanalin&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Jetso Analin" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jetsoanalin&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jetsoanalin&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="100%" alt="Jetso Analin" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jetsoanalin&show_icons=true&theme=gotham" alt="github stats" width="100%" align="right"/>
 
