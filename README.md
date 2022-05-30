@@ -21,7 +21,7 @@ I'm also a Technical Trainer in Technologies such as Blockchain , Rest APIs usin
 - 📚 NodeJS, Javascript Frameworks - FullStack Development
 - 📙 SQL, PostgreSQL - Database
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetsoanalin&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jetsoanalin&layout=compact&langs_count=20)
 
 
 #### Technical Skills known in BITS and PIECES :
